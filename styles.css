@@ -17,7 +17,7 @@ body{
     background-color: rgb(14, 14, 14);
     font-family: "Quicksand Medium", Helvetica, Arial, sans-serif;
     color: white;
-    cursor: url(/stuff/icons/cursor.png), default!important
+    cursor: url(cursor.png), default!important
 }
 h1 {
     font-family: 'Quicksand Bold', sans-serif;
