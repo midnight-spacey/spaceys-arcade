@@ -214,7 +214,7 @@ img:hover{
     scale: 1.2;
     transition: ease .2s;
     border: 5px solid #45ffb8;
-    cursor: url(/stuff/icons/pointer.png), pointer!important
+    cursor: url(pointer.png), pointer!important
 }
 .headericons{
     width: 35px;
@@ -224,7 +224,7 @@ img:hover{
     border: 5px solid transparent; 
 }
 .headericons:hover{
-    cursor: url(/stuff/icons/pointer.png), pointer!important;
+    cursor: url(pointer.png), pointer!important;
     border: 5px solid transparent; 
 }
 input{
